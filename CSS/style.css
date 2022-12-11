@@ -1,12 +1,31 @@
-h1 {
-    color: rgb(71, 62, 142);
+
+
+.nav-item {
+    font-size: 20px;
+    color: rgb(97, 96, 96);
+    
 }
 
-.navbar-brand {
-    font-size: 50px;
-    font-style: italic;
-    color: brown;
-  
+.navbar-nav {
+    display: flex;
+    align-items: flex-start;
+}
 
+.display-4, {
+    font-size: 50px ;
+    color: rgb(18, 17, 17);
+    justify-content: center;
+    
+}
 
+.lead {
+    color: black;
+   font-size: 20px;
+}
+
+.jumbotron {
+    background-color: transparent;
+    background: url("../images/jumbotron.jpg");
+    background-size: cover;
+    z-index: 10;
 }
