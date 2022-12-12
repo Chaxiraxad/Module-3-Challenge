@@ -1,15 +1,9 @@
 
-
-.nav-item {
+.navbar a {
     font-size: 20px;
-    color: rgb(97, 96, 96);
-    
+    color: blue ;
 }
 
-.navbar-nav {
-    display: flex;
-    align-items: flex-start;
-}
 
 .display-4, {
     font-size: 50px ;
@@ -28,4 +22,32 @@
     background: url("../images/jumbotron.jpg");
     background-size: cover;
     z-index: 10;
+    padding: 150px;
+}
+
+.sectionHeading {
+    color: grey;
+}
+
+.col-3 {
+    display: flex;
+ height: 300px;;
+ 
+}
+.row {
+    padding: 50px;
+
+}
+
+.Aboutme {
+    margin-right: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.AboutmeContainer {
+display: flex;
+justify-content: center;
+align-content: center;
+
 }
