@@ -29,9 +29,11 @@
     color: grey;
 }
 
-.col-3 {
+.col_3 {
     display: flex;
- height: 300px;;
+    flex-wrap: wrap;
+ width: 50px;
+ height: min-content;
  
 }
 .row {
@@ -39,15 +41,25 @@
 
 }
 
-.Aboutme {
-    margin-right: 200px;
-    align-items: center;
-    justify-content: center;
+.row_valueProp {
+display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+align-content: center;
+padding-top: 10px;
+padding-bottom: 50px;
 }
 
-.AboutmeContainer {
-display: flex;
-justify-content: center;
-align-content: center;
+.Aboutme {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-top: 50px;
+    padding-left: 50px;
+    
 
+}
+
+.content {
+    padding-left: 50px;
 }
