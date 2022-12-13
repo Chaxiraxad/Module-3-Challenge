@@ -1,20 +1,15 @@
-
 .navbar a {
-    font-size: 20px;
-    color: blue ;
-}
-
-
-.display-4, {
-    font-size: 50px ;
-    color: rgb(18, 17, 17);
-    justify-content: center;
+    font-size: 25px;
     
 }
 
+
+
+
 .lead {
     color: black;
-   font-size: 20px;
+    font-size: 20px;
+    
 }
 
 .jumbotron {
@@ -32,22 +27,23 @@
 .col_3 {
     display: flex;
     flex-wrap: wrap;
- width: 50px;
- height: min-content;
- 
+    width: 50px;
+    height: min-content;
+
 }
+
 .row {
     padding: 50px;
 
 }
 
 .row_valueProp {
-display: flex;
-flex-direction: column;
-flex-wrap: nowrap;
-align-content: center;
-padding-top: 10px;
-padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
 
 .Aboutme {
@@ -56,10 +52,28 @@ padding-bottom: 50px;
     flex-wrap: nowrap;
     padding-top: 50px;
     padding-left: 50px;
-    
+
 
 }
 
 .content {
-    padding-left: 50px;
+    /* padding-left: 50px; */
 }
+
+.image-style {
+    max-width: max-content;
+    height: auto;
+}
+
+.center-me {
+    /* margin: 0 auto; */
+}
+
+.anchor-class:hover {
+    font-size: 2rem;
+}
+
+.button-class:hover {
+    box-shadow: 10px 5px 5px red;
+}
+
