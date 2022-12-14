@@ -22,7 +22,7 @@
 }
 
 .jumbotron {
-    background-color: transparent;
+    /* background-color: transparent; */
     background: url("../images/jumbotron.jpg");
     background-size: cover;
     z-index: 10;
