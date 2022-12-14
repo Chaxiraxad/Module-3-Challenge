@@ -38,7 +38,7 @@ Create a portfolio layout using Bootstrap, CSS and Framework.
 
 
 ## Installation
-git clone git@github.com:Chaxiraxad/Module-3-Challenge.git
+$ git clone git@github.com:Chaxiraxad/Module-3-Challenge.git
 
 ## Deployment
 Project Link:
@@ -63,6 +63,6 @@ N/A
 N/A
 
 ## Resources
-https://getbootstrap.com/docs/4.6/getting-started/introduction/
-https://fonts.google.com/
-https://fontawesome.com/
+[bootstrap] (https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+[fonts] (https://fonts.google.com/)
+[fontawesome] (https://fontawesome.com/)
