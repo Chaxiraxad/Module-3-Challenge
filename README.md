@@ -41,8 +41,9 @@ Create a portfolio layout using Bootstrap, CSS and Framework.
  git clone (git@github.com:Chaxiraxad/Module-3-Challenge.git)
 
 ## Deployment
-Project Link:
-(ScreenShot) ![list of topics](assets/prework_topics.png)
+[Project Link] (https://chaxiraxad.github.io/Module-3-Challenge/)
+
+(ScreenShot) ![Module-3-Challenge deployed website](./Images/Module3Challenge_deployed.jpg)
 
 ## Usage
 N/A
